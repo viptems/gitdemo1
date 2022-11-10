@@ -1,10 +1,10 @@
-class demo(){
+class demo{
 
 
 
-psvm(){
+public static void main(){
 
-sop("git Demo");
+System.out.print("git Demo");
 
 }
 
